@@ -1,4 +1,4 @@
-# DICOM Image Processing with Jupyter Notebook
+# DICOM Image Processing with Python
 
 This repository contains a Jupyter Notebook for processing DICOM images. The notebook demonstrates how to load, display, and manipulate DICOM images using various Python libraries.
 
